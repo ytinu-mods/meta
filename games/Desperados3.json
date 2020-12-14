@@ -1,0 +1,49 @@
+{
+  "mods": [
+    {
+      "version": "1.1.1",
+      "id": "ExtendedCheats",
+      "name": "Extended Cheats",
+      "description": "Collection of random cheats like infinite ammo or modifying ability ranges",
+      "source": "https://github.com/benediktwerner/Desperados3Mods",
+      "homepage": "https://github.com/benediktwerner/Desperados3Mods",
+      "download": "https://github.com/benediktwerner/Desperados3Mods/releases/download/cheats-v1.1.1/ExtendedCheats.dll"
+    },
+    {
+      "version": "1.0.0",
+      "id": "D1CooperGun",
+      "name": "D1 Cooper Gun",
+      "description": "Makes Cooper's gun work more like in Desperados 1",
+      "source": "https://github.com/benediktwerner/Desperados3Mods",
+      "homepage": "https://github.com/benediktwerner/Desperados3Mods",
+      "download": "https://github.com/benediktwerner/Desperados3Mods/releases/download/v1.0.0/D1CooperGun.dll"
+    },
+    {
+      "version": "1.0.1",
+      "id": "DevKillsList",
+      "name": "Dev Kills List",
+      "description": "Shows you which devs you still need to kill for the Veteran Bounty Hunter achievement",
+      "source": "https://github.com/benediktwerner/Desperados3Mods",
+      "homepage": "https://github.com/benediktwerner/Desperados3Mods",
+      "download": "https://github.com/benediktwerner/Desperados3Mods/releases/download/cheats-v1.1.1/DevKillsList.dll"
+    },
+    {
+      "version": "1.0.0",
+      "id": "KingsmanEasterEgg",
+      "name": "Kingsman Easter Egg",
+      "description": "Allows you to modify the chance that a snipe with Doc will trigger the exploding heads easter egg",
+      "source": "https://github.com/benediktwerner/Desperados3Mods",
+      "homepage": "https://github.com/benediktwerner/Desperados3Mods",
+      "download": "https://github.com/benediktwerner/Desperados3Mods/releases/download/v1.0.0/KingsmanEasterEgg.dll"
+    },
+    {
+      "version": "1.0.0",
+      "id": "ShowdownModePauseOnDesperadoDiff",
+      "name": "Showdown Mode Pause On Desperado Diff",
+      "description": "Allows pausing Showdown mode on Desperado difficulty",
+      "source": "https://github.com/benediktwerner/Desperados3Mods",
+      "homepage": "https://github.com/benediktwerner/Desperados3Mods",
+      "download": "https://github.com/benediktwerner/Desperados3Mods/releases/download/v1.0.0/ShowdownModePauseOnDesperadoDiff.dll"
+    }
+  ]
+}
