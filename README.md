@@ -2,7 +2,7 @@
 
 ### `meta.json`
 
-```json
+```jsonc
 {
     "version": "1.2.3",
     "messages": [
@@ -30,7 +30,7 @@
 
 Download url can be `.dll` or `.zip` that will be placed in the `plugins` directory.
 
-```json
+```jsonc
 {
     "mods": [
         {
@@ -49,7 +49,7 @@ Download url can be `.dll` or `.zip` that will be placed in the `plugins` direct
 
 ## External mod repo
 
-```json
+```jsonc
 {
     "games": [ /* See meta.json */ ],
     "mods": {
