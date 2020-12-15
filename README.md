@@ -26,7 +26,7 @@
 }
 ```
 
-## `games/<game>.json`
+### `games/<game>.json`
 
 Download url can be `.dll` or `.zip` that will be placed in the `plugins` directory.
 
@@ -47,7 +47,7 @@ Download url can be `.dll` or `.zip` that will be placed in the `plugins` direct
 }
 ```
 
-## External mod repo
+### External mod repo
 
 ```jsonc
 {
