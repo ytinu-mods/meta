@@ -36,12 +36,18 @@ Download url can be `.dll` or `.zip` that will be placed in the `plugins` direct
         {
             "version": "1.2.3",
             "id": "ExtendedCheats",
-            "name": "Extended Cheats",              // optional
+            "name": "Extended Cheats",
+            "download": "https://github.com/benediktwerner/Desperados3Mods/releases/download/cheats-v1.1.1/ExtendedCheats.dll",
+            "extract_to_root": true,    // optional
+            "files": [                  // optional, used mainly for uninstallation.
+                                        // if not specified all files and directories starting with `plugins/<mod id>` will be removed
+                "plugins/ConfigurationManager.dll",
+                "plugins/ConfigurationManager.xml",
+            ],
             "description": "Adds more cheats",      // optional
             "ytinu_version": "<semver constraint>", // optional
             "source": "https://github.com/benediktwerner/Desperados3Mods",      // optional
             "homepage": "https://github.com/benediktwerner/Desperados3Mods",    // optional
-            "download": "https://github.com/benediktwerner/Desperados3Mods/releases/download/cheats-v1.1.1/ExtendedCheats.dll",
         }
     ]
 }
@@ -57,4 +63,3 @@ Download url can be `.dll` or `.zip` that will be placed in the `plugins` direct
     }
 }
 ```
-

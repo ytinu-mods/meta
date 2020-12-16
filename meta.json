@@ -25,7 +25,8 @@
       "description": "In-Game UI to change mod configuraitons",
       "source": "https://github.com/BepInEx/BepInEx.ConfigurationManager",
       "homepage": "https://github.com/BepInEx/BepInEx.ConfigurationManager",
-      "download": "https://github.com/BepInEx/BepInEx.ConfigurationManager/releases/download/v16.1/BepInEx.ConfigurationManager_v16.1.zip"
+      "download": "https://github.com/BepInEx/BepInEx.ConfigurationManager/releases/download/v16.1/BepInEx.ConfigurationManager_v16.1.zip",
+      "extract_to_root": true
     },
     {
       "version": "2.3.0",
@@ -34,7 +35,8 @@
       "description": "In-Game inspector, editor and interactive console for debugging and modding",
       "source": "https://github.com/ManlyMarco/RuntimeUnityEditor",
       "homepage": "https://github.com/ManlyMarco/RuntimeUnityEditor",
-      "download": "https://github.com/ManlyMarco/RuntimeUnityEditor/releases/download/v2.3/RuntimeUnityEditor_BepInEx5_v2.3.zip"
+      "download": "https://github.com/ManlyMarco/RuntimeUnityEditor/releases/download/v2.3/RuntimeUnityEditor_BepInEx5_v2.3.zip",
+      "extract_to_root": true
     }
   ]
 }
