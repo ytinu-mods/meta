@@ -23,7 +23,7 @@
       "version": "16.1.0",
       "id": "ConfigurationManager",
       "name": "Configuration Manager",
-      "description": "In-Game UI to change mod configuraitons",
+      "description": "In-Game UI to change mod configurations",
       "source": "https://github.com/BepInEx/BepInEx.ConfigurationManager",
       "homepage": "https://github.com/BepInEx/BepInEx.ConfigurationManager",
       "download": "https://github.com/BepInEx/BepInEx.ConfigurationManager/releases/download/v16.1/BepInEx.ConfigurationManager_v16.1.zip",
