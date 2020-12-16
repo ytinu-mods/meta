@@ -35,7 +35,7 @@
       "description": "In-Game inspector, editor and interactive console for debugging and modding",
       "source": "https://github.com/ManlyMarco/RuntimeUnityEditor",
       "homepage": "https://github.com/ManlyMarco/RuntimeUnityEditor",
-      "download": "https://github.com/ManlyMarco/RuntimeUnityEditor/releases/download/v2.3/RuntimeUnityEditor_BepInEx5_v2.3.zip",
+      "download": "https://github.com/ytinu-mods/mirrors/blob/main/RuntimeUnityEditor_BepInEx5_v2.3.zip?raw=true",
       "extract_to_root": true
     }
   ]
