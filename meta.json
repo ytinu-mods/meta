@@ -5,7 +5,8 @@
     {
       "id": "Desperados3",
       "name": "Desperados III",
-      "appid": "610370"
+      "appid": "610370",
+      "recommended_mods": ["ConfigurationManager", "RewiredIMGUIBlocker"]
     }
   ],
   "mods": [
@@ -36,7 +37,8 @@
       "source": "https://github.com/ManlyMarco/RuntimeUnityEditor",
       "homepage": "https://github.com/ManlyMarco/RuntimeUnityEditor",
       "download": "https://github.com/ytinu-mods/mirrors/blob/main/RuntimeUnityEditor_BepInEx5_v2.3.zip?raw=true",
-      "extract_to_root": true
+      "extract_to_root": true,
+      "dev_mod": true
     }
   ]
 }

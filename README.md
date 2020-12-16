@@ -19,6 +19,7 @@
             "id": "Desperados3",
             "name": "Desperados III",
             "appid": "610370",
+            "recommended_mods": ["ConfigurationManager"]
             // "image": "<url>",                // something to consider for the future
         }
     ],
@@ -38,12 +39,13 @@ Download url can be `.dll` or `.zip` that will be placed in the `plugins` direct
             "id": "ExtendedCheats",
             "name": "Extended Cheats",
             "download": "https://github.com/benediktwerner/Desperados3Mods/releases/download/cheats-v1.1.1/ExtendedCheats.dll",
-            "extract_to_root": true,    // optional
+            "extract_to_root": true,    // optional, if true zip mods will be extracted to the game directory instead of `plugins`
             "files": [                  // optional, used mainly for uninstallation.
                                         // if not specified all files and directories starting with `plugins/<mod id>` will be removed
                 "plugins/ConfigurationManager.dll",
                 "plugins/ConfigurationManager.xml",
             ],
+            "dev_mod": true,            // optional, set to true if the mod is mostly intended for mod developers
             "description": "Adds more cheats",      // optional
             "ytinu_version": "<semver constraint>", // optional
             "source": "https://github.com/benediktwerner/Desperados3Mods",      // optional
