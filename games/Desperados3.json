@@ -1,13 +1,22 @@
 {
   "mods": [
     {
-      "version": "1.2.0",
+      "version": "1.0.0",
+      "id": "BetterLevelEditor",
+      "name": "Better Level Editor",
+      "description": "Better UI for inserting entities. Press F2 to open UI and F3 to place selected entities. The keys can be changed in the config or via ConfigurationManager.",
+      "source": "https://github.com/benediktwerner/Desperados3Mods",
+      "homepage": "https://github.com/benediktwerner/Desperados3Mods",
+      "download": "https://github.com/benediktwerner/Desperados3Mods/releases/download/editor-v1.0.0/BetterLevelEditor.dll"
+    },
+    {
+      "version": "1.2.1",
       "id": "ExtendedCheats",
       "name": "Extended Cheats",
       "description": "Collection of random cheats like infinite ammo or modifying ability ranges",
       "source": "https://github.com/benediktwerner/Desperados3Mods",
       "homepage": "https://github.com/benediktwerner/Desperados3Mods",
-      "download": "https://github.com/benediktwerner/Desperados3Mods/releases/download/cheats-v1.2.0/ExtendedCheats.dll"
+      "download": "https://github.com/benediktwerner/Desperados3Mods/releases/download/editor-v1.0.0/ExtendedCheats.dll"
     },
     {
       "version": "1.0.2",
