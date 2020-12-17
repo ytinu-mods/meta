@@ -1,6 +1,9 @@
 {
   "version": "0.1.0",
-  "downloads": {},
+  "downloads": {
+      "windows": "https://github.com/ytinu-mods/ytinu/releases/download/v0.1.0/ytinu.exe",
+      "linux": "https://github.com/ytinu-mods/ytinu/releases/download/v0.1.0/ytinu"
+  },
   "messages": [],
   "games": [
     {

@@ -6,9 +6,8 @@
 {
     "version": "1.2.3",
     "downloads": {
-        "windows": "https://github.com/ytinu-mods/ytinu/releases/download/v1.2.3/ytinu.exe",
-        "linux": "https://github.com/ytinu-mods/ytinu/releases/download/v1.2.3/ytinu",
-        "macos": "https://github.com/ytinu-mods/ytinu/releases/download/v1.2.3/ytinu.app",
+        "windows": "https://github.com/ytinu-mods/ytinu/releases/download/v0.1.0/ytinu.exe",
+        "linux": "https://github.com/ytinu-mods/ytinu/releases/download/v0.1.0/ytinu",
     },
     "messages": [
         {
