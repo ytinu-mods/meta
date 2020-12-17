@@ -7,7 +7,7 @@
       "description": "Better UI for inserting entities. Press F2 to open UI and F3 to place selected entities. The keys can be changed in the config or via ConfigurationManager.",
       "source": "https://github.com/benediktwerner/Desperados3Mods",
       "homepage": "https://github.com/benediktwerner/Desperados3Mods",
-      "download": "https://github.com/benediktwerner/Desperados3Mods/releases/download/editor-v1.0.0/BetterLevelEditor.dll"
+      "download": "https://github.com/benediktwerner/Desperados3Mods/releases/download/editor-v1.0.0/BetterLevelEditor.zip"
     },
     {
       "version": "1.2.2",
