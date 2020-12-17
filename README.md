@@ -5,6 +5,11 @@
 ```jsonc
 {
     "version": "1.2.3",
+    "downloads": {
+        "windows": "https://github.com/ytinu-mods/ytinu/releases/download/v1.2.3/ytinu.exe",
+        "linux": "https://github.com/ytinu-mods/ytinu/releases/download/v1.2.3/ytinu",
+        "macos": "https://github.com/ytinu-mods/ytinu/releases/download/v1.2.3/ytinu.app",
+    },
     "messages": [
         {
             "id": "update_1.0",
