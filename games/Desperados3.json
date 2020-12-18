@@ -1,13 +1,13 @@
 {
   "mods": [
     {
-      "version": "1.0.0",
+      "version": "1.1.0",
       "id": "BetterLevelEditor",
       "name": "Better Level Editor",
       "description": "Better UI for inserting entities. Press F2 to open UI and F3 to place selected entities. The keys can be changed in the config or via ConfigurationManager.",
       "source": "https://github.com/benediktwerner/Desperados3Mods",
       "homepage": "https://github.com/benediktwerner/Desperados3Mods",
-      "download": "https://github.com/benediktwerner/Desperados3Mods/releases/download/editor-v1.0.0/BetterLevelEditor.zip"
+      "download": "https://github.com/benediktwerner/Desperados3Mods/releases/download/editor-v1.1.0/BetterLevelEditor.zip"
     },
     {
       "version": "1.2.2",
