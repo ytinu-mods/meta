@@ -25,7 +25,7 @@
       "description": "A few small QoL improvements like mute in background or start levels zoomed out and with highlights enabled",
       "source": "https://github.com/benediktwerner/Desperados3Mods",
       "homepage": "https://github.com/benediktwerner/Desperados3Mods",
-      "download": "https://github.com/benediktwerner/Desperados3Mods/releases/download/cheats-v1.2.0/Convenience.dll"
+      "download": "https://github.com/benediktwerner/Desperados3Mods/releases/download/progress-v1.0.0/Convenience.dll"
     },
     {
       "version": "1.0.0",
@@ -53,6 +53,15 @@
       "source": "https://github.com/benediktwerner/Desperados3Mods",
       "homepage": "https://github.com/benediktwerner/Desperados3Mods",
       "download": "https://github.com/benediktwerner/Desperados3Mods/releases/download/v1.0.0/KingsmanEasterEgg.dll"
+    },
+    {
+      "version": "1.0.0",
+      "id": "ProgressRestorer",
+      "name": "Progress Restorer",
+      "description": "Easily restore lost progress (i.e. unlocked levels and badges)",
+      "source": "https://github.com/benediktwerner/Desperados3Mods",
+      "homepage": "https://github.com/benediktwerner/Desperados3Mods",
+      "download": "https://github.com/benediktwerner/Desperados3Mods/releases/download/progress-v1.0.0/ProgressRestorer.dll"
     },
     {
       "version": "1.0.0",
