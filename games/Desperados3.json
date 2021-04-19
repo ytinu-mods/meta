@@ -46,13 +46,13 @@
       "download": "https://github.com/benediktwerner/Desperados3Mods/releases/download/cheats-v1.1.0/DevKillsList.dll"
     },
     {
-      "version": "1.0.0",
+      "version": "1.1.0",
       "id": "KingsmanEasterEgg",
       "name": "Kingsman Easter Egg",
       "description": "Allows you to modify the chance that a snipe with Doc will trigger the exploding heads easter egg",
       "source": "https://github.com/benediktwerner/Desperados3Mods",
       "homepage": "https://github.com/benediktwerner/Desperados3Mods",
-      "download": "https://github.com/benediktwerner/Desperados3Mods/releases/download/v1.0.0/KingsmanEasterEgg.dll"
+      "download": "https://github.com/benediktwerner/Desperados3Mods/releases/download/easter-egg-v1.1.0/KingsmanEasterEgg.dll"
     },
     {
       "version": "1.1.0",
