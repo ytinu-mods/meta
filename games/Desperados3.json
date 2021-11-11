@@ -10,13 +10,13 @@
       "download": "https://github.com/benediktwerner/Desperados3Mods/releases/download/editor-v1.1.0/BetterLevelEditor.zip"
     },
     {
-      "version": "1.2.3",
+      "version": "1.3.0",
       "id": "ExtendedCheats",
       "name": "Extended Cheats",
       "description": "Collection of random cheats like infinite ammo or modifying ability ranges",
       "source": "https://github.com/benediktwerner/Desperados3Mods",
       "homepage": "https://github.com/benediktwerner/Desperados3Mods",
-      "download": "https://github.com/benediktwerner/Desperados3Mods/releases/download/cheats-v1.2.3/ExtendedCheats.dll"
+      "download": "https://github.com/benediktwerner/Desperados3Mods/releases/download/cheats-v1.3.0/ExtendedCheats.dll"
     },
     {
       "version": "1.0.3",
