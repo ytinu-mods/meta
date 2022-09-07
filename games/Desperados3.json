@@ -80,7 +80,7 @@
       "extract_to_root": true,
       "files": [
         "BepInEx/plugins/D1Textures.dll",
-        "Desperados III_Data/Resources/Textures",
+        "Desperados III_Data/Resources/Textures"
       ],
       "source": "https://github.com/benediktwerner/Desperados3Mods",
       "homepage": "https://github.com/benediktwerner/Desperados3Mods",
